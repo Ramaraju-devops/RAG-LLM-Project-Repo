@@ -2,6 +2,11 @@
 
 This guide shows how to configure your RAG application to use Azure OpenAI instead of regular OpenAI.
 
+[Reference Video](https://www.youtube.com/watch?v=abMwFViFFhI&t=2410s)
+This video referenceing for openai, but I have changed with Azure OpenAI for my project.
+
+Follow the below steps to create and host
+
 ## Prerequisites
 
 1. **Azure OpenAI Service**: You need an Azure OpenAI resource deployed in Azure

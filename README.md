@@ -2,6 +2,11 @@
 
 A comprehensive Retrieval Augmented Generation (RAG) application built with Python, LangChain, and Streamlit. This project demonstrates how to build an intelligent chatbot that can answer questions based on uploaded documents and web content using Azure OpenAI and OpenAI models.
 
+[Reference Video](https://www.youtube.com/watch?v=abMwFViFFhI&t=2410s)
+This video referenceing for openai, but I have changed with Azure OpenAI for my project.
+
+Follow the below steps to create and host
+
 # ---------
 # Azure Services Required:
 - Azure OpenAI
